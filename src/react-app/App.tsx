@@ -31,7 +31,7 @@ function App() {
           />
         </a>
       </div>
-      <h1>Vite + React + Hono + Cloudflare</h1>
+      <h1>TEST</h1>
       <div className="card">
         <button
           onClick={() => setCount((count) => count + 1)}
@@ -39,8 +39,7 @@ function App() {
         >
           count is {count}
         </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
+        <p>TEST
         </p>
       </div>
       <div className="card">
