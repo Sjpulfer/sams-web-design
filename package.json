@@ -15,9 +15,13 @@
     "publish": true
   },
   "dependencies": {
+    "@builder.io/dev-tools": "^1.11.21",
+    "@builder.io/react": "^8.2.7",
+    "@builder.io/sdk": "^6.1.2",
     "hono": "4.8.2",
     "react": "19.0.0",
-    "react-dom": "19.0.0"
+    "react-dom": "19.0.0",
+    "react-router-dom": "^7.8.2"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "1.7.5",
